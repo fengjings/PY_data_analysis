@@ -1,9 +1,9 @@
 # Coursera  
-Deep_Learning  
-Machine_Learning  
-Python3_Programing  
-Python_for_everybody
-
+Deep_Learning         (5 courses. three finished)  
+Machine_Learning      (1 course.  Under studying)
+Python3_Programing    (5 courses. All finished)  
+Python_for_everybody  (5 courses. All finished)  
+Bitcoin_and_Cryptocurrency_Technologies (Under reading)
 
 
 # PY_data_analysis  
